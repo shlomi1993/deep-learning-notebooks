@@ -12,7 +12,6 @@ Learn how to classify handwritten digits using the MNIST dataset. This notebook 
 
 <p align="center"><img width="844" height="464" alt="image" src="https://github.com/user-attachments/assets/ff6cb203-f188-449f-a7b7-5037e9f6534f" /></p>
 
-
 ### `2_broadcast_tensors.ipynb` — Broadcasting Mechanics  
 Recreate the behavior of `expand_as` and `broadcast_tensors` in PyTorch. This notebook demystifies tensor broadcasting by mimicking these essential utilities.
 
