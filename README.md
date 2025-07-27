@@ -1,7 +1,7 @@
 # Deep Learning Notebooks
 
-A curated collection of hands-on deep learning notebooks implemented in PyTorch.  
-Each notebook focuses on a specific concept, from fundamental building blocks like autograd and broadcasting to full-fledged tasks like transfer learning, custom layers, and sequence modeling with RNNs.
+A curated collection of hands-on notebooks exploring core machine and deep learning concepts.
+Each notebook focuses on a specific topic — from linear models and foundational elements like broadcasting and autograd to advanced tasks such as custom layers, transfer learning, sequence modeling with RNNs, and representation learning with autoencoders.
 
 This repository is ideal for students, researchers, and practitioners looking to deepen their understanding of deep learning by building key components from scratch and experimenting with real-world datasets like MNIST and CIFAR-10.
 
